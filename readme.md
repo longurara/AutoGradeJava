@@ -4,7 +4,7 @@ Tài liệu này giúp bạn (đặc biệt là sinh viên chưa quen cài Pytho
 
 ## 1. Chuẩn bị
 - Windows 10/11 64-bit.
-- Java JDK 8+ (để chấm bài Java). Nếu chưa có, tải tại https://adoptium.net/ và cài, sau đó đặt biến môi trường `JAVA_HOME` (không bắt buộc nhưng nên làm).
+- Java JDK 8+ (để chấm bài Java). Nếu chưa có, tải tại https://java.com/ và cài, sau đó đặt biến môi trường `JAVA_HOME` (không bắt buộc nhưng nên làm).
 - Kết nối Internet để tải Python.
 
 ## 2. Cài Python nhanh
