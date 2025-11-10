@@ -1,4 +1,4 @@
-# Hướng dẫn sử dụng autograder khi chưa cài Python
+# Hướng dẫn sử dụng autograder
 
 Tài liệu này giúp bạn (đặc biệt là sinh viên chưa quen cài Python) chạy giao diện `grade_ui.py` một cách nhanh nhất trên Windows.
 
